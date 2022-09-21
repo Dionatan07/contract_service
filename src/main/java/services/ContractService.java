@@ -18,7 +18,7 @@ public class ContractService {
 
         double basicQuota = contract.getTotalValue() / months;
         for (int i = 1; i <= months; i++) {
-            Date date = addMonth(contract.getDate(), months);
+            Date date = addMonth(contract.getDate(), i);
             double updatedQuota = basicQuota + onlinePaymentService.interest(basicQuota, i);
             double fullQuota = updatedQuota + onlinePaymentService.payment(updatedQuota);
             contract.addInstallments(new Installment(date, fullQuota));
