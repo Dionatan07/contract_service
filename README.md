@@ -33,6 +33,6 @@ meses após o contrato e assim por diante. Mostrar os dados das parcelas na tela
 - [x] Criação de Constantes;
 - [x] Lógica da programação;
 
-------------------
+---------------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
