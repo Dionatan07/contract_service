@@ -5,7 +5,7 @@ Contract Service &#x1F4C4; Curso Java Programação Orientada a Objetos
 <p><b>Resolução do exercício da aula de Inteface</b> <strong>by Professor Nélio Alves</strong>.
 </strong>
 
--------------------
+----------------------
 
 <p>Uma empresa deseja automatizar o processamento de seus contratos. O processamento de
 um contrato consiste em gerar as parcelas a serem pagas para aquele contrato, com base no
